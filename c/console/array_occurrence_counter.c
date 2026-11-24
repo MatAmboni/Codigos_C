@@ -1,4 +1,4 @@
-// FILE:          trabalho2.c
+// FILE:          array_occurrence_counter.c
    // TITLE:         Array Element Counter
    // SUBMITTED BY:  Matheus Costa Amboni
    //                All code is my own except where credited to others.

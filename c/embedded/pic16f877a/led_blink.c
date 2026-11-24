@@ -1,5 +1,5 @@
 /*
- * File:   main.c
+ * File:   led_blink.c
  * Author: mateu
  *
  * Created on 18 de Agosto de 2021, 07:56

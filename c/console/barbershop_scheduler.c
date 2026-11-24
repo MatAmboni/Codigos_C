@@ -1,4 +1,4 @@
-   // FILE:          modern_barbershop.c
+   // FILE:          barbershop_scheduler.c
    // TITLE:         Barbearia Chacarosque e Amboni
    // SUBMITTED BY:  Antônio Pedro Chacarosque de Castro e Matheus Costa Amboni
    //                All code are our own except where credited to others.
@@ -34,14 +34,14 @@
    //    This function simply prints the second menu. 
    //
    // INCLUDED FILES:
-   //    menu.h
+   //    barbershop_menu.h
    //    
    //
    // DATA FILES:
    //    stdio.h
 
 #include <stdio.h>
-#include "menu.h"
+#include "barbershop_menu.h"
 
 int c;
 int b;
